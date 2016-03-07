@@ -4,6 +4,6 @@
 public class MainTest {
 
     public void testMainMethod(){
-        
+        System.out.println("Test Git");
     }
 }
