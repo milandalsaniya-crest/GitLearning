@@ -9,6 +9,14 @@ public class Main {
         System.out.print("Hello World");
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public Date getDob() {
+        return dob;
+    }
+
     String name;
     Date dob;
 }
